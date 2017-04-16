@@ -350,7 +350,7 @@ Private Declare Function ShellExecute Lib "shell32.dll" Alias "ShellExecuteA" (B
 
 Private Sub Form_Load()
 With lblsrc
-    .Caption = "http://s.id/psbvb6"
+    .Caption = "http://s.id/psbsmvb6"
     .ForeColor = vbBlue
     .Font.Underline = True
 End With
